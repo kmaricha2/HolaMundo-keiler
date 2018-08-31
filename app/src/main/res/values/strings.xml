@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HolaMundo</string>
+    <string name="titulo">Aplicación Saludar</string>
+    <string name="saludar">Saludar</string>
+    <string name="parte_saludo">Hola</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="parte_saludo2">Bienvenido a esta aplicación !!!</string>
+    <string name="error_1">Por favor digite el nombre</string>
+    <string name="error_2">Por favor digite el Apellido</string>
+    <string name="genero">Genero</string>
+    <string name="borrar">Borrar</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="datos">Tus datos son:</string>
+    <string-array name="generos">
+        <item>@string/masculino</item>
+        <item>@string/femenino</item>
+    </string-array>
+</resources>
